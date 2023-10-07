@@ -8,7 +8,7 @@ Bubbling and Capturing is used for DOM manupilation.
 LocalStorage is used for client side caching.
 React-Modal is used to creating popups.
 
-# Back-end
+# Back-End
 The backend is developed in Nodejs (a javascript runtime envionment), ExpressJS (a minimalistic web framework) and MongoDB (as a database).
 Mongoose(Object-Document-Mapper) is used to help writing queries for CRUD operations in JS as an alternative to NoSQL.
 bcryptjs is used to store passwords as hashed passwords.
